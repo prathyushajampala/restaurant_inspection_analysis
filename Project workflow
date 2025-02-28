@@ -1,0 +1,35 @@
+New York Restaurant Data Analysis (ETL Project)
+
+📌 Project Overview
+
+This project focuses on extracting, transforming, and analyzing a dataset of New York restaurants. The dataset was sourced from Tidy Tuesday and processed using various data tools. The final goal was to clean, analyze, and visualize the data for insights into the New York restaurant scene.
+
+🚀 Workflow (ETL Process)
+
+Extract:
+
+Dataset sourced from Tidy Tuesday.
+
+Loaded into OpenRefine for initial data cleaning.
+
+Transform:
+
+Further data cleaning and transformation performed in Jupyter Notebook using Python libraries such as Pandas and NumPy.
+
+Handled missing values, inconsistencies, and formatted data.
+
+Load:
+
+Loaded the cleaned data into Google Cloud BigQuery for structured querying.
+
+Created visualizations in Tableau to derive insights.
+
+🛠️ Tools & Technologies Used
+
+Data Cleaning: OpenRefine, Pandas (Python)
+
+Data Analysis: Jupyter Notebook, BigQuery
+
+Data Visualization: Tableau
+
+Cloud Storage & Querying: Google Cloud BigQuery
